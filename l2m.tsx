@@ -25,26 +25,74 @@
  <tile id="72" terrain=",0,,"/>
  <tile id="73" terrain="0,0,,"/>
  <tile id="74" terrain="0,,,"/>
- <tile id="109" terrain=",,,1"/>
- <tile id="110" terrain=",,1,1"/>
- <tile id="111" terrain=",,1,1"/>
- <tile id="112" terrain=",,1,"/>
+ <tile id="109" terrain=",,,1">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="110" terrain=",,1,1">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="111" terrain=",,1,1">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="112" terrain=",,1,">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="113" terrain=",,,3"/>
  <tile id="114" terrain=",,3,3"/>
  <tile id="115" terrain=",,3,3"/>
  <tile id="116" terrain=",,3,"/>
- <tile id="145" terrain=",1,,1"/>
- <tile id="146" terrain="1,1,1,1"/>
- <tile id="147" terrain="1,1,1,1"/>
- <tile id="148" terrain="1,,1,"/>
+ <tile id="145" terrain=",1,,1">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="146" terrain="1,1,1,1">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="147" terrain="1,1,1,1">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="148" terrain="1,,1,">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="149" terrain=",3,,3"/>
  <tile id="150" terrain="3,3,3,3"/>
  <tile id="151" terrain="3,3,3,3"/>
  <tile id="152" terrain="3,,3,"/>
- <tile id="181" terrain=",1,,"/>
- <tile id="182" terrain="1,1,,"/>
- <tile id="183" terrain="1,1,,"/>
- <tile id="184" terrain="1,,,"/>
+ <tile id="181" terrain=",1,,">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="182" terrain="1,1,,">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="183" terrain="1,1,,">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="184" terrain="1,,,">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="185" terrain=",3,,"/>
  <tile id="186" terrain="3,3,,"/>
  <tile id="187" terrain="3,3,,"/>
