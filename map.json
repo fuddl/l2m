@@ -633,6 +633,10 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "firstgid":1193,
+         "source":"..\/loom-hq\/office.tsx"
         }],
  "tilewidth":32,
  "type":"map",
