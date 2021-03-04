@@ -419,7 +419,7 @@
         {
          "columns":24,
          "firstgid":1033,
-         "image":"..\/..\/Desktop\/fruit1.png",
+         "image":"fruit1.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -432,7 +432,7 @@
         {
          "columns":32,
          "firstgid":1609,
-         "image":"..\/..\/Desktop\/sofa.png",
+         "image":"sofa.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -451,7 +451,7 @@
          "margin":0,
          "name":"french",
          "spacing":0,
-         "tilecount":576,
+         "tilecount":0,
          "tileheight":32,
          "tilewidth":32
         }],
