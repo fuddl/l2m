@@ -417,12 +417,43 @@
          "tilewidth":32
         }, 
         {
+         "columns":24,
          "firstgid":1033,
-         "source":"fruit1.json"
+         "image":"..\/..\/Desktop\/fruit1.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"fruit1",
+         "spacing":0,
+         "tilecount":576,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":32,
          "firstgid":1609,
-         "source":"sofa.json"
+         "image":"..\/..\/Desktop\/sofa.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"sofa",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":24,
+         "firstgid":2633,
+         "image":"..\/..\/Desktop\/dbt8bfh-172e1df5-ec33-4909-8a47-d12403f22e2f.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"french",
+         "spacing":0,
+         "tilecount":576,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
